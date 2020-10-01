@@ -32,3 +32,6 @@ The main goal for that is being able to have an historical tracking and creating
 - Regular expressions will be used to extract the desired data from the main strings and assing them to the right field on the data frame.
 - The final data frame is stored on a .csv file on the Home working directory (Other destinations or ways of storing -BigQuery, Google Drive, MySQL...- can be easily defined too).
 - Final user is supposed to update and add new records to this data base periodically -not a difficult task at all-. Scheduling for automation is also quite easy from RStudio Server defining a cronR scheduled task.
+
+## More info (in Spanish)
+- Medium: https://medium.com/@rubenmarcos/crear-una-base-de-datos-de-la-evoluci%C3%B3n-del-mercado-inmobiliario-con-idealista-y-r-y-sin-scraping-1d5025a9d47e
